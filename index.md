@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+## 开发规范
 
-You can use the [editor on GitHub](https://github.com/hotjp/jerei/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+[HTML编码规范--耿建新](http://www.jianshu.com/p/00f082cbdb08)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[CSS编码规范--耿建新](http://www.jianshu.com/p/00f082cbdb08)
 
-### Markdown
+[JavaScript编码规范--姜琦](https://www.zybuluo.com/hotjp/note/497402)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[JavaScript隐式转换--王立鹏](https://www.zybuluo.com/hotlp/note/645311)
 
-```markdown
-Syntax highlighted code block
+## 历史技术分享文档
 
-# Header 1
-## Header 2
-### Header 3
+[移动端开发常见内容--姜琦](https://www.zybuluo.com/hotjp/note/523850)
 
-- Bulleted
-- List
+[font-family--姜琦](https://www.zybuluo.com/hotjp/note/553195)
 
-1. Numbered
-2. List
+[Array--姜琦](https://www.zybuluo.com/hotjp/note/577348)
 
-**Bold** and _Italic_ and `Code` text
+[Prototype--姜琦](https://www.zybuluo.com/hotjp/note/578486)
 
-[Link](url) and ![Image](src)
-```
+[函数的闭包--姜琦](https://www.zybuluo.com/hotjp/note/617341)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[JavaScript书写技巧--姜琦](https://www.zybuluo.com/hotjp/note/641332)
 
-### Jekyll Themes
+## 开发环境相关
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hotjp/jerei/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[idea配置LESS自动编译--姜琦](https://www.zybuluo.com/hotjp/note/685239)
 
-### Support or Contact
+[pxCook 像素大厨使用--姜琦](https://www.zybuluo.com/hotjp/note/547984)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## 面试题
+
+[前端面试--姜琦](https://www.zybuluo.com/hotjp/note/571734)
+
+[JavaScript面试题--姜琦](https://www.zybuluo.com/hotjp/note/679355)
