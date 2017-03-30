@@ -30,6 +30,8 @@
 
 [JavaScript书写技巧--姜琦](https://www.zybuluo.com/hotjp/note/641332)
 
+[JavaScript面向对象编程--姜琦](https://www.zybuluo.com/hotjp/note/679396)
+
 ## 开发环境相关
 
 [idea配置LESS自动编译--姜琦](https://www.zybuluo.com/hotjp/note/685239)
