@@ -32,6 +32,10 @@
 
 [JavaScript面向对象编程--姜琦](https://www.zybuluo.com/hotjp/note/679396)
 
+[Web前端渗透 (XSS,CSRF) 介绍--姜琦](https://www.zybuluo.com/hotjp/note/679396)
+
+[如何快速解析一个库（插件）--姜琦](https://www.zybuluo.com/hotjp/note/715635)
+
 ## 开发环境相关
 
 [idea配置LESS自动编译--姜琦](https://www.zybuluo.com/hotjp/note/685239)
