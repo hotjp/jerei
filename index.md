@@ -38,6 +38,8 @@
 
 ## 开发环境相关
 
+[vscode配置LESS自动编译--姜琦](https://www.zybuluo.com/hotjp/note/715740)
+
 [idea配置LESS自动编译--姜琦](https://www.zybuluo.com/hotjp/note/685239)
 
 [pxCook 像素大厨使用--姜琦](https://www.zybuluo.com/hotjp/note/547984)
