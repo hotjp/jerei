@@ -36,6 +36,8 @@
 
 [如何快速解析一个库（插件）--姜琦](https://www.zybuluo.com/hotjp/note/715635)
 
+[函数防抖 函数节流--姜琦](https://www.zybuluo.com/hotjp/note/679306)
+
 ## 开发环境相关
 
 [vscode配置LESS自动编译--姜琦](https://www.zybuluo.com/hotjp/note/715740)
