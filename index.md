@@ -38,6 +38,11 @@
 
 [函数防抖 函数节流--姜琦](https://www.zybuluo.com/hotjp/note/679306)
 
+[canvas动画原理](http://www.jianshu.com/p/f0b9e98c1ba6)
+
+[canvas基础部分](http://www.jianshu.com/p/1c5eb304661e)
+
+
 ## 开发环境相关
 
 [vscode配置LESS自动编译--姜琦](https://www.zybuluo.com/hotjp/note/715740)
